@@ -109732,6 +109732,22 @@
         "discord": "https://discord.gg/g9QaNkk6HW",
         "website": "https://www.sly-fox.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "A3Es8eAwmpoBHCsNwWC65s7nHrjYWQikGRARYJ34iThV",
+      "symbol": "RAKPMA",
+      "name": "RAKPMA",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A3Es8eAwmpoBHCsNwWC65s7nHrjYWQikGRARYJ34iThV/logo.png",
+      "tags": [
+        "Utility-Token",
+        "Community-Token",
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://kid-ex.app/"
+      }
     }
   ],
   "version": {
